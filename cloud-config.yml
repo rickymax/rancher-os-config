@@ -1,0 +1,7 @@
+rancher:
+  network:
+    interfaces:
+      eth0:
+        address: 10.0.0.220/16
+        gateway: 10.0.0.1
+        dhcp: false
